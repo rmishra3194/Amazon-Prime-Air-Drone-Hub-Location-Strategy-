@@ -1,1 +1,4 @@
-# Amazon-Prime-Air-Drone-Hub-Location-Strategy-
+# Amazon-Prime-Air-Drone-Hub-Location-Strategy
+Design a scalable and data-driven drone hub network to support Amazon Prime Air’s last-mile delivery system in Massachusetts, aligning with business growth, drone technology, population demographics, and optimal location planning.
+Conducted a comprehensive four-dimensional analysis—online commerce trends, MK30 drone capabilities, state demographic data, and geographic constraints. Recommended phased rollout across high-income suburban hubs (Waltham, Framingham, Worcester, Springfield) using Solver-driven location modeling and 15-minute delivery radius analysis.
+Proposed drone network covering ~1M residents (~14% of MA population), enabling 13,300 weekly deliveries. Validated operational viability and cost efficiency for urgent, lightweight deliveries like electronics and medicine, enhancing Amazon’s sustainability and healthcare logistics impact.
